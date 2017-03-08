@@ -1,0 +1,29 @@
+DEBUG VisitsSummary[2017-02-27 03:40:09] LogAggr::getGeneralQueryBindParams: start:2017-02-26 17:00:00 end:2017-02-27 16:59:59
+DEBUG VisitsSummary[2017-02-27 03:40:09] ArchiveProcessor::getAggregatedNumericMetrics, The returned metric: nb_uniq_visitors=4,nb_visits=5,nb_actions=96,nb_users=0,max_actions=53,sum_visit_length=757,bounce_count=0,nb_visits_converted=0
+DEBUG VisitsSummary[2017-02-27 03:40:09] PluginsArchiver::callAggregateAllPlugins: Initializing archiving process for all plugins [visits = 5, visits converted = 0]
+DEBUG Actions[2017-02-27 03:40:09] LogAggr::getGeneralQueryBindParams: start:2017-02-27 03:30:00 end:2017-02-27 03:39:59
+DEBUG VisitsSummary[2017-02-27 03:40:09] PluginsArchiver::callAggregateAllPlugins: Archiving period reports for plugin 'Actions'.
+DEBUG Actions[2017-02-27 03:40:09] [Thangnt 1107] Ar.Proc::aggregateDataTableRecords recordName: Actions_actions
+DEBUG Actions[2017-02-27 03:40:09] CoreArchive get data for: [1002], Actions_actions, blob
+DEBUG Actions[2017-02-27 03:40:09] CoreArchive get archiveids for: Actions
+DEBUG Actions[2017-02-27 03:40:09] CoreArchive get doneFlag: done
+DEBUG Actions[2017-02-27 03:40:09] [Thangnt 1107] Ar.Proc::aggregateDataTableRecords recordName: Actions_actions_url
+DEBUG Actions[2017-02-27 03:40:09] CoreArchive get data for: [1002], Actions_actions_url, blob
+DEBUG Actions[2017-02-27 03:40:09] CoreArchive get archiveids for: Actions
+DEBUG Actions[2017-02-27 03:40:09] CoreArchive get doneFlag: done
+DEBUG Actions[2017-02-27 03:40:09] [Thangnt 1107] Ar.Proc::aggregateDataTableRecords recordName: Actions_downloads
+DEBUG Actions[2017-02-27 03:40:09] CoreArchive get data for: [1002], Actions_downloads, blob
+DEBUG Actions[2017-02-27 03:40:09] CoreArchive get archiveids for: Actions
+DEBUG Actions[2017-02-27 03:40:09] CoreArchive get doneFlag: done
+DEBUG Actions[2017-02-27 03:40:09] LogAggr::getGeneralQueryBindParams: start:2017-02-27 03:30:00 end:2017-02-27 03:39:59
+DEBUG Actions[2017-02-27 03:40:09] [Thangnt 1107] Ar.Proc::aggregateDataTableRecords recordName: Actions_outlink
+DEBUG Actions[2017-02-27 03:40:09] CoreArchive get data for: [1002], Actions_outlink, blob
+DEBUG Actions[2017-02-27 03:40:09] CoreArchive get archiveids for: Actions
+DEBUG Actions[2017-02-27 03:40:09] CoreArchive get doneFlag: done
+DEBUG Actions[2017-02-27 03:40:09] LogAggr::getGeneralQueryBindParams: start:2017-02-27 03:30:00 end:2017-02-27 03:39:59
+DEBUG Actions[2017-02-27 03:40:09] LogAggr::getGeneralQueryBindParams: start:2017-02-27 03:30:00 end:2017-02-27 03:39:59
+DEBUG Actions[2017-02-27 03:40:09] LogAggr::getGeneralQueryBindParams: start:2017-02-27 03:30:00 end:2017-02-27 03:39:59
+DEBUG Actions[2017-02-27 03:40:09] LogAggr::getGeneralQueryBindParams: start:2017-02-27 03:30:00 end:2017-02-27 03:39:59
+DEBUG Actions[2017-02-27 03:40:09] [Thangnt 1107] Ar.Proc::aggregateDataTableRecords recordName: Actions_sitesearch
+DEBUG Actions[2017-02-27 03:40:09] CoreArchive get data for: [1002], Actions_sitesearch, blob
+

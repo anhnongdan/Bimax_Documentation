@@ -1,0 +1,60 @@
+DEBUG VisitsSummary[2017-02-27 04:10:08] Loader::determineIfArchivePermanent now is: 2017-02-27 04:10:08, and endTimestampUTC: 2017-02-27 03:39:59.
+DEBUG VisitsSummary[2017-02-27 04:10:08] ArchiveSelector::getArchiveIdAndVisits dateStartIso: 2017-02-27 10:30:00 EndIso: 2017-02-27 10:39:59 ts_archiveUTC: 2017-02-27 03:39:59
+
+DEBUG VisitsSummary[2017-02-27 04:10:08] [Thangnt 2016-11-04] the periods (CoreArchive accepted hour period): hour, 2017-02-27 10:40:00
+DEBUG VisitsSummary[2017-02-27 04:10:08] ArchiveProcessor/Loader:construct period:hour start:2017-02-27 10:40:00
+DEBUG VisitsSummary[2017-02-27 04:10:08] Loader::determineIfArchivePermanent now is: 2017-02-27 04:10:08, and endTimestampUTC: 2017-02-27 03:49:59.
+DEBUG VisitsSummary[2017-02-27 04:10:08] ArchiveSelector::getArchiveIdAndVisits dateStartIso: 2017-02-27 10:40:00 EndIso: 2017-02-27 10:49:59 ts_archiveUTC: 2017-02-27 03:49:59
+
+DEBUG VisitsSummary[2017-02-27 04:10:08] [Thangnt 2016-11-04] the periods (CoreArchive accepted hour period): hour, 2017-02-27 10:40:00
+DEBUG VisitsSummary[2017-02-27 04:10:08] ArchiveProcessor/Loader:construct period:hour start:2017-02-27 10:40:00
+DEBUG VisitsSummary[2017-02-27 04:10:08] Loader::determineIfArchivePermanent now is: 2017-02-27 04:10:08, and endTimestampUTC: 2017-02-27 03:49:59.
+DEBUG VisitsSummary[2017-02-27 04:10:08] ArchiveSelector::getArchiveIdAndVisits dateStartIso: 2017-02-27 10:40:00 EndIso: 2017-02-27 10:49:59 ts_archiveUTC: 2017-02-27 03:49:59
+
+DEBUG VisitsSummary[2017-02-27 04:10:08] [Thangnt 2016-11-04] the periods (CoreArchive accepted hour period): hour, 2017-02-27 10:50:00
+DEBUG VisitsSummary[2017-02-27 04:10:08] ArchiveProcessor/Loader:construct period:hour start:2017-02-27 10:50:00
+DEBUG VisitsSummary[2017-02-27 04:10:08] Loader::determineIfArchivePermanent now is: 2017-02-27 04:10:08, and endTimestampUTC: 2017-02-27 03:59:59.
+DEBUG VisitsSummary[2017-02-27 04:10:08] ArchiveSelector::getArchiveIdAndVisits dateStartIso: 2017-02-27 10:50:00 EndIso: 2017-02-27 10:59:59 ts_archiveUTC: 2017-02-27 03:59:59
+
+DEBUG VisitsSummary[2017-02-27 04:10:08] [Thangnt 2016-11-04] the periods (CoreArchive accepted hour period): hour, 2017-02-27 10:50:00
+DEBUG VisitsSummary[2017-02-27 04:10:08] ArchiveProcessor/Loader:construct period:hour start:2017-02-27 10:50:00
+DEBUG VisitsSummary[2017-02-27 04:10:08] Loader::determineIfArchivePermanent now is: 2017-02-27 04:10:08, and endTimestampUTC: 2017-02-27 03:59:59.
+
+* DEBUG VisitsSummary[2017-02-27 04:10:08] ArchiveProcessor::getAggregatedNumericMetrics, The returned metric: nb_uniq_visitors=0,nb_visits=0,nb_actions=0,nb_users=0,max_actions=0,sum_visit_length=0,bounce_count=0,nb_visits_converted=0
+** DEBUG VisitsSummary[2017-02-27 04:10:08] ArchiveSelector::getArchiveIdAndVisits dateStartIso: 2017-02-27 10:50:00 EndIso: 2017-02-27 10:59:59 ts_archiveUTC: 2017-02-27 03:59:59
+
+DEBUG VisitsSummary[2017-02-27 04:10:08] PluginsArchiver::callAggregateAllPlugins: Initializing archiving process for all plugins [visits = 0, visits converted = 0]
+DEBUG VisitsSummary[2017-02-27 04:10:08] PluginsArchiver::callAggregateAllPlugins: Skipping archiving for plugin 'Actions' (no visits).
+DEBUG VisitsSummary[2017-02-27 04:10:08] PluginsArchiver::callAggregateAllPlugins: Skipping archiving for plugin 'Referrers' (no visits).
+DEBUG VisitsSummary[2017-02-27 04:10:08] PluginsArchiver::callAggregateAllPlugins: Skipping archiving for plugin 'DevicesDetection' (no visits).
+DEBUG VisitsSummary[2017-02-27 04:10:08] PluginsArchiver::callAggregateAllPlugins: Skipping archiving for plugin 'UserCountry' (no visits).
+DEBUG VisitsSummary[2017-02-27 04:10:08] PluginsArchiver::callAggregateAllPlugins: Skipping archiving for plugin 'VisitTime' (no visits).
+
+* DEBUG VisitsSummary[2017-02-27 04:10:08] [Thangnt 2016-11-04] the periods (CoreArchive accepted hour period): hour, 2017-02-27 11:00:00
+
+DEBUG VisitsSummary[2017-02-27 04:10:08] PluginsArchiver::callAggregateAllPlugins: Skipping archiving for plugin 'Provider' (no visits).
+DEBUG VisitsSummary[2017-02-27 04:10:08] ArchiveProcessor/Loader:construct period:hour start:2017-02-27 11:00:00
+DEBUG VisitsSummary[2017-02-27 04:10:08] PluginsArchiver::callAggregateAllPlugins: Skipping archiving for plugin 'Bandwidth' (no visits).
+DEBUG VisitsSummary[2017-02-27 04:10:08] Loader::determineIfArchivePermanent now is: 2017-02-27 04:10:08, and endTimestampUTC: 2017-02-27 04:09:59.
+DEBUG VisitsSummary[2017-02-27 04:10:08] ArchiveSelector::getArchiveIdAndVisits dateStartIso: 2017-02-27 11:00:00 EndIso: 2017-02-27 11:09:59 ts_archiveUTC: 2017-02-27 04:09:59
+
+DEBUG Bandwidth[2017-02-27 04:10:08] From build() of Archive: the date takes in: last2
+DEBUG Bandwidth[2017-02-27 04:10:08] CoreArchive get data for: ["1"], Bandwidth_nb_total_overall, Bandwidth_nb_total_pageurl, Bandwidth_nb_total_download, numeric
+DEBUG Bandwidth[2017-02-27 04:10:08] CoreArchive get archiveids for: Bandwidth
+DEBUG Bandwidth[2017-02-27 04:10:08] CoreArchive get doneFlag: done
+DEBUG VisitsSummary[2017-02-27 04:10:08] LogAggr::getGeneralQueryBindParams: start:2017-02-27 04:00:00 end:2017-02-27 04:09:59
+DEBUG Bandwidth[2017-02-27 04:10:08] [Thangnt 2016-11-04] the periods (CoreArchive accepted hour period): day, 2017-02-26
+DEBUG Bandwidth[2017-02-27 04:10:08] ArchiveProcessor/Loader:construct period:day start:2017-02-26 11:10:08
+DEBUG Bandwidth[2017-02-27 04:10:08] Loader::determineIfArchivePermanent now is: 2017-02-27 04:10:08, and endTimestampUTC: 2017-02-26 16:59:59.
+DEBUG Bandwidth[2017-02-27 04:10:08] ArchiveSelector::getArchiveIdAndVisits dateStartIso: 2017-02-26 EndIso: 2017-02-26 ts_archiveUTC: 2017-02-26 16:59:59
+DEBUG Bandwidth[2017-02-27 04:10:08] [Thangnt 2016-11-04] the periods (CoreArchive accepted hour period): day, 2017-02-27
+DEBUG Bandwidth[2017-02-27 04:10:08] ArchiveProcessor/Loader:construct period:day start:2017-02-27 11:10:08
+DEBUG Bandwidth[2017-02-27 04:10:08] Loader::determineIfArchivePermanent now is: 2017-02-27 04:10:08, and endTimestampUTC: 2017-02-27 16:59:59.
+DEBUG Bandwidth[2017-02-27 04:10:08] ArchiveSelector::getArchiveIdAndVisits dateStartIso: 2017-02-27 EndIso: 2017-02-27 ts_archiveUTC: 2017-02-27 04:09:08
+DEBUG VisitsSummary[2017-02-27 04:10:08] PluginsArchiver::callAggregateAllPlugins: Initializing archiving process for all plugins [visits = 157, visits converted = 0]
+DEBUG Actions[2017-02-27 04:10:08] From build() of Archive: the date takes in: last2
+DEBUG Actions[2017-02-27 04:10:08] CoreArchive get data for: ["1"], Actions_nb_pageviews, Actions_nb_uniq_pageviews, Actions_nb_downloads, Actions_nb_uniq_downloads, Actions_nb_outlinks, Actions_nb_uniq_outlinks, Actions_nb_searches, Actions_nb_keywords, Actions_sum_time_generation, Actions_nb_hits_with_time_generation, numeric
+DEBUG Actions[2017-02-27 04:10:08] CoreArchive get archiveids for: Actions
+DEBUG Actions[2017-02-27 04:10:08] CoreArchive get doneFlag: done
+DEBUG Actions[2017-02-27 04:10:08] [Thangnt 2016-11-04] the periods (CoreArchive accepted hour period): day, 2017-02-26
+
